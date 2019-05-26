@@ -1,0 +1,4 @@
+environs==4.1.3
+marshmallow==2.19.2
+paho-mqtt==1.4.0
+python-dotenv==0.10.2
